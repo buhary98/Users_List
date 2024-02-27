@@ -1,0 +1,170 @@
+.card {
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+}
+
+.input {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 100%;
+    max-width: 20rem;
+}
+
+.input label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.input input {
+    font: inherit;
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 0.15rem;
+    margin-bottom: 0.5rem;
+}
+
+.input input:focus {
+    outline: none;
+    border-color: #4f005f;
+}
+
+.button {
+    font: inherit;
+    border: 1px solid #4f005f;
+    background: #4f005f;
+    color: white;
+    padding: 0.25rem 1rem;
+    cursor: pointer;
+    border-radius: 7px;
+    margin: 0rem 5.86rem;
+}
+
+.button:hover,
+.button:active {
+    background: #741188;
+    border-color: #741188;
+}
+
+.button:focus {
+    outline: none;
+}
+
+.filter {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 100%;
+    max-width: 20rem;
+}
+
+.control {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 1rem 0;
+}
+
+.control label {
+    display: block;
+    font-weight: bold;
+}
+
+.control select {
+    font: inherit;
+    padding: 0.5rem;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.users {
+    margin: 2rem auto;
+    width: 100%;
+    max-width: 60rem;
+}
+
+.users ul {
+    list-style: none;
+    padding: 1rem;
+}
+
+.users li {
+    border: 1px solid #ccc;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+.users div {
+    display: inline-flex;
+    width: 10rem;
+    margin: 0rem 0.5rem;
+    text-align: left;
+}
+
+.userList {
+    background: rgb(176, 233, 247);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+    margin: 2rem auto;
+    width: 100%;
+    max-width: 76.8rem;
+}
+
+.userList ul {
+    list-style: none;
+    padding: 1.5rem;
+}
+
+.head div {
+    display: inline-flex;
+    justify-content: center;
+    width: 11.8rem;
+    padding: 0.5rem;
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+.body div {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 11.8rem;
+    height: 3rem;
+    padding: 0.5rem;
+    color: black;
+    border: 1px solid black;
+}
+
+.body button {
+    font: inherit;
+    background: #4f005f;
+    color: white;
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+    border-radius: 7px;
+    margin: 0rem 0.5rem;
+}
+
+.body button:hover,
+.body button:active {
+    background: #741188;
+    border-color: #741188;
+}
+
+.body button:focus {
+    outline: none;
+}
+
+.spinner {
+    margin: 10rem;
+    color: white;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    font-size: 2rem;
+}

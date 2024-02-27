@@ -1,0 +1,44 @@
+{
+  "userList": [
+    {
+      "id": 1,
+      "name": "Habeeb",
+      "birth": "1967-08-01",
+      "contact": 7853653432,
+      "email": "habeeb@test",
+      "location": "Kayalpattinam"
+    },
+    {
+      "id": 2,
+      "name": "Sayeed",
+      "birth": "1961-02-15",
+      "contact": 7983687292,
+      "email": "sayeed.123@test",
+      "location": "Trichy"
+    },
+    {
+      "id": 3,
+      "name": "Rajesh",
+      "birth": "1983-02-09",
+      "contact": 9353343824,
+      "email": "raj.esh@test",
+      "location": "Mumbai"
+    },
+    {
+      "id": 4,
+      "name": "Jhon",
+      "birth": "1992-06-19",
+      "contact": 6351624343,
+      "email": "jhon.42@test",
+      "location": "Madurai"
+    },
+    {
+      "id": 5,
+      "name": "Fathima",
+      "birth": "1982-12-24",
+      "contact": 9953328734,
+      "email": "fathi@test",
+      "location": "Chennai"
+    }
+  ]
+}
